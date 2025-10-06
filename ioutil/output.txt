@@ -1,0 +1,2 @@
+Escrevendo com Write
+Adicionando mais texto com WriteString
